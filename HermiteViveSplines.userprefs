@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HermiteSpline.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DrawLineManager.cs" Line="30" Column="4" />
+      <File FileName="Assets\Scripts\DrawCircleManager.cs" Line="25" Column="5" />
+      <File FileName="Assets\Scripts\DrawCircleusingHermite.cs" Line="33" Column="83" />
+      <File FileName="Assets\Scripts\HermiteSpline.cs" Line="181" Column="21" />
+      <File FileName="Assets\EmptyClass.cs" Line="173" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
